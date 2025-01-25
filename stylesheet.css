@@ -33,18 +33,18 @@ height: 100vh;
     grid-column: 1/2;
 }
 .kumar-3{
-    background-color: antiquewhite;
+    background-color: rgb(215, 250, 241);
     grid-column: 2/4;
     grid-row: 2/3;
 }
 .kumar-4{
     grid-row: 5/4;
     grid-column: 1/4;
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 43);
 }
 .kumar-5{
     grid-column: 2/3;
-    background-color: azure;
+    background-color: rgb(249, 255, 240);
 }
 
 .task-2{
@@ -57,7 +57,7 @@ height: 100vh;
 
 .itm{
     padding:10px;
-    background-color: rgb(198, 157, 198);
+    background-color: rgb(198, 157, 157);
     text-align: center;
     border: 2px solid;
 
@@ -102,7 +102,7 @@ height:
 }
 .kumar002{
     grid-column: 2/4;
-    background-color: greenyellow;
+    background-color: rgb(47, 151, 255);
 }
 
 .kumar006{
@@ -114,14 +114,14 @@ height:
     background-color: red;
 }
 .kumar004{
-    background-color: orange;
+    background-color: rgb(255, 0, 98);
 }
 .kumar005{
     background-color: red;
     
 }
 .kumar007{
-    background-color: red;
+    background-color: rgb(77, 255, 0);
 }
 .kumar008{
     background-color: orange;
