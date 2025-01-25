@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+    
+  }
+
+
+
+
+.item{
+    padding:10px;
+    background-color: rgb(198, 198, 214);
+    text-align: center;
+    border: 2px solid;
+    
+}
+.grid-container{
+    width: 100%;
+    display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 10px;
+height: 100vh;
+}
+    
+.kumar-1{
+    background-color: brown;
+    grid-column: 1/4;
+}
+.kumar-2{
+    background-color: aqua;
+    grid-row: 2/4;
+    grid-column: 1/2;
+}
+.kumar-3{
+    background-color: antiquewhite;
+    grid-column: 2/4;
+    grid-row: 2/3;
+}
+.kumar-4{
+    grid-row: 5/4;
+    grid-column: 1/4;
+    background-color: blueviolet;
+}
+.kumar-5{
+    grid-column: 2/3;
+    background-color: azure;
+}
+
+.task-2{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr ;
+    gap: 10px;
+    height: 100vh;
+}
+
+
+.itm{
+    padding:10px;
+    background-color: rgb(198, 157, 198);
+    text-align: center;
+    border: 2px solid;
+
+}
+.kumar02{
+grid-column: 2/5;
+grid-row: 1/3;
+}
+.kumar03{
+    grid-column: 5/7;
+}
+
+.kumar05{
+grid-column: 5/7;
+}
+.kumar08{
+    grid-column: 3/5;
+    grid-row: 3/5;
+}
+
+
+.task3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.itm{
+    border: 2px solid;
+    padding: 10px;
+    
+    width: 100%;
+    display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 10px;
+height: 
+}
+
+.kumar001{
+    grid-row: 1/4;
+    background-color: greenyellow;
+}
+.kumar002{
+    grid-column: 2/4;
+    background-color: greenyellow;
+}
+
+.kumar006{
+    grid-row: 2/4;
+    grid-column: 4/5;
+    background-color: greenyellow;
+}
+.kumar003{
+    background-color: red;
+}
+.kumar004{
+    background-color: orange;
+}
+.kumar005{
+    background-color: red;
+    
+}
+.kumar007{
+    background-color: red;
+}
+.kumar008{
+    background-color: orange;
+}
+.itmkumar
